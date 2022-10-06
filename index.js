@@ -21,6 +21,6 @@ function restart(){
     count = 0;
     countSection.textContent = 0;
     record = "";
-    saveSection.textContent = "Previous entires: ";
+    saveSection.textContent = "Previous entries: ";
     saveBtn.setAttribute('disabled', "true");
 }
